@@ -3,7 +3,7 @@
 <p align="right">
   <a href="README_postgres.ru.md">RU</a>
   <span>|</span>
-  <a disabled href="README_postgres.md">EN</a>
+  <b>EN</b>
 </p>
 
 **Version:** 18.2
